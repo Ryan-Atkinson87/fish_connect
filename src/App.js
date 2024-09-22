@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          I shall be using build the Fish Connect application here, watch this space!
         </p>
         <a
           className="App-link"
